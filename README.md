@@ -1,0 +1,1 @@
+# django_corona_app
